@@ -106,7 +106,7 @@ class Comment(db.Model):
 
 
 # Creating the database (ONLY NEEDED ONCE after changes)
-db.create_all()
+# db.create_all()
 
 
 # -----------------------------------  HOME Route ----------------------------------------------------------------------
